@@ -8,9 +8,9 @@
   <url>http://maven.apache.org</url>
   <scm>
   <url>https://github.com</url>
-  <connection>scm:git:https://github.com/hellotohello/springproject.git</connection>
+  <connection>scm:git:https://github.com/hellotohello/releasedemo.git</connection>
   
-<developerConnection>scm:git:https://github.com/hellotohello/springproject.git</developerConnection>
+<developerConnection>scm:git:https://github.com/hellotohello/releasedemo.git</developerConnection>
   <tag>1.1</tag>
   </scm>
   <dependencies>
