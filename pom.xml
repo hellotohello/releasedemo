@@ -3,7 +3,7 @@
   <groupId>com.proj.release</groupId>
   <artifactId>sampleproj</artifactId>
   <packaging>war</packaging>
-  <version>1.0</version>
+  <version>1.0-SNAPSHOT</version>
   <name>sampleproj Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
