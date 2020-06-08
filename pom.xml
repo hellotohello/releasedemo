@@ -3,7 +3,7 @@
   <groupId>com.proj.release</groupId>
   <artifactId>sampleproj</artifactId>
   <packaging>war</packaging>
-  <version>1.1</version>
+  <version>1.2-SNAPSHOT</version>
   <name>sampleproj Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <scm>
@@ -11,7 +11,7 @@
   <connection>scm:git:https://github.com/hellotohello/releasedemo.git</connection>
   
 <developerConnection>scm:git:https://github.com/hellotohello/releasedemo.git</developerConnection>
-  <tag>sampleproj-1.1</tag>
+  <tag>1.1</tag>
   </scm>
   <dependencies>
     <dependency>
